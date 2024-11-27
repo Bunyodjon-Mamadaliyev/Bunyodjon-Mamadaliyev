@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-# **Bunyodjon-Mamadaliyev**
-![Bunyodjon-Mamadaliye](https://link_to_your_image.jpg)
+# **✨ Bunyodjon Mamadaliyev ✨**
+
+![Bunyodjon-Mamadaliyev](https://link_to_your_image.jpg)
 
 
 #### Hi there 👋 I'm a Back-end Developer
