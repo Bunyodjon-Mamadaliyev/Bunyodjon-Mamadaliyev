@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# **✨ Bunyodjon Mamadaliyev ✨**
+# **Bunyodjon Mamadaliyev**
 
-![Bunyodjon-Mamadaliyev](https://link_to_your_image.jpg)
+![Animated Sticker](https://link_to_your_animated_gif.gif)
 
 
 #### Hi there 👋 I'm a Back-end Developer
