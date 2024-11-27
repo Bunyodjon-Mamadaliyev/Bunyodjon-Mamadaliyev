@@ -2,11 +2,11 @@
 
 # **Bunyodjon Mamadaliyev**
 
-![Animated Sticker](https://link_to_your_animated_gif.gif)
 
 
-#### Hi there 👋 I'm a Back-end Developer
+### Hi there 👋 I'm a Back-end Developer
 
+## Astrum IT Academiy
 
 
 ---
@@ -36,6 +36,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?logo=visualstudiocode&logoColor=white)
 ---
 
-### 📷 A Cool Image
-<img src="https://your_image_link_here" alt="Developer" width="500px">
 
