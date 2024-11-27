@@ -1,40 +1,6 @@
 ## Hi there 👋
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bunyodjon Mamadaliyev</title>
-    <style>
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        .sticker {
-            font-size: 2em;
-            color: white;
-            background-color: #007BFF;
-            padding: 10px 20px;
-            border-radius: 50%;
-            display: inline-block;
-            animation: spin 3s linear infinite;
-        }
-
-        body {
-            background-color: #f0f0f0;
-            text-align: center;
-            padding-top: 50px;
-        }
-    </style>
-</head>
-<body>
-    <div class="sticker">✨ Bunyodjon Mamadaliyev ✨</div>
-    <p>Welcome to my portfolio!</p>
-</body>
-</html>
-
+# **Bunyodjon Mamadaliyev**
 
 ![Animated Sticker](https://link_to_your_animated_gif.gif)
 
