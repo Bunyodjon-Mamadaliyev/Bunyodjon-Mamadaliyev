@@ -24,7 +24,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-purple?logo=figma&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white)
 
 #### Tools
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?logo=pycharm&logoColor=white)
