@@ -124,8 +124,7 @@
 </svg>
 
 
-
-### Hi there 👋 I'm a Back-End Developer
+### Hi there 👋 I'm a Back-end Developer
 
 ## Astrum IT Academiy
 
